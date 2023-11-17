@@ -37,17 +37,12 @@ Your website must meet accessibility standards. You can achieve this completing 
 
 ## Usage
 
- ```md
- ![Header section of website](assets/images/SS1.png)
- ```
+ 
+ ![Header section of website](./assets/images/SS1.png)
 
-  ```md
- ![Body section of website](assets/images/SS2.png)
- ```
+ ![Body section of website](./assets/images/SS2.png)
 
-  ```md
- ![Footer section of website](assets/images/SS3.png)
- ```
+ ![Footer section of website](./assets/images/SS3.png)
 
 ## Credits
 
